@@ -1,0 +1,17 @@
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\ClockTests.dll
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\ClockTests.pdb
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Clock.exe
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Clock.pdb
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Clock.exe.config
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\obj\Debug\ClockTests.csprojResolveAssemblyReference.cache
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\obj\Debug\ClockTests.csproj.CoreCompileInputs.cache
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\obj\Debug\ClockTests.csproj.CopyComplete
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\obj\Debug\ClockTests.dll
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\ClockTests\obj\Debug\ClockTests.pdb

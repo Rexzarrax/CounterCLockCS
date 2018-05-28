@@ -1,0 +1,7 @@
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\Jorda\Desktop\Uni\Sem_3\OOP\PT_3_2\Clock\Clock\obj\Debug\Clock.pdb
